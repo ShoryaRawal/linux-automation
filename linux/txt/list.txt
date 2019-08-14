@@ -1,0 +1,10 @@
+________________________________________________________________________________
+Basic Commands:
+exit - exits the application.
+cls - clears the terminal screen.
+reset - resets the terminal screen.
+creds - shows information about the application.
+dir - shows the directories.
+list - shows this menu.
+list -a - shows a longer commands list.
+________________________________________________________________________________
