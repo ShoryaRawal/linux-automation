@@ -10,11 +10,11 @@ echo ""
 
 sudo add-apt-repository ppa:budgie-remix/ppa
 
-sudo apt update
+sudo apt-get update
 echo ""
 echo "This can take some time"
 echo ""
-sudo apt install budgie-desktop-enviroment
+sudo apt-get install ubuntu-budgie-desktop
 
 echo "________________________________________________"
 echo ""
