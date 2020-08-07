@@ -1,0 +1,14 @@
+________________________________________________________________________________
+
+Created by - Shorya Rawal
+creater's portfolio - https://ramji090304.wixsite.com/portfolio
+
+Usage - for a easier usage of bash, it creates an easier list of commands for
+        completion of a task.
+
+Operating system - any os containing bash.
+
+version - 0.0.1
+
+use 'list' for a list of all commands.
+________________________________________________________________________________

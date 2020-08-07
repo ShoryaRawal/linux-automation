@@ -1,0 +1,57 @@
+________________________________________________________________________________
+Basic Commands:
+voice : opens the program with enabled voice.
+exit : exits the application.
+cls : clears the terminal screen.
+reset : resets the terminal screen.
+creds : shows information about the application.
+dir : shows the directories.
+list : shows this list.
+list -a : shows a longer commands list.
+lock : locks the terminal.
+    (inbuilt usrname - admin)
+    (inbuilt password - qw)
+calc : opens a calculator.
+restart : Restarts the computer.
+shutdown : shuts the computer down.
+~~
+Bots :
+hi dumbbot : a chatbot for basic talking.
+helpbot : a chatbot to help the user.
+~~
+File Commands :
+make -f : makes a file of any file format in a specific path.
+make -b : makes a bootable pendrive.
+make -rs : makes a executable file in a specific path.
+del : Deletes a file in a given path.
+~~
+System Commands :
+update -s : updates the whole system with updatable packages.
+install : installs an application.
+install -ppa : adds an ppa then installs an application.
+install -de : installs a desktop enviroment on your system.
+    supported desktop enviroments :
+        1)Budgie
+        2)Pantheon
+        3)Kde
+        4)Xfce
+        5)Gnome
+        6)Mate
+        7)Cinnamon
+        8)Lxde
+        9)Openbox
+        10)i3
+install -pm : installs a python2 module.
+install -pm3 : installs a python3 module.
+~~
+Disk Commands :
+disk : shows all the disk label
+disk -u : literally shows all the uses of the disk.
+________________________________________________________________________________
+fro Commands :
+(inbuilt password - root.)
+cls : clears the terminal screen.
+reset : resets the terminal.
+hide : makes the fro terminal look like a normal one.
+list : shows this list.
+________________________________________________________________________________
